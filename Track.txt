@@ -1,0 +1,8 @@
+#1 setup  project Vite
+add google font in index.html
+install sass
+app.scss
+create Home.jsx and scss in pages
+create components than used them in pages
+create navbar and  jsx and scss use ing material icons
+
